@@ -1,0 +1,10 @@
+/media/antony/c7b87cd2-9172-4929-8873-04a84b9d204f/Dotnet/C#6.0/AwaitInCatchAndFinallyBlocks/bin/Debug/netcoreapp2.0/AwaitInCatchAndFinallyBlocks.deps.json
+/media/antony/c7b87cd2-9172-4929-8873-04a84b9d204f/Dotnet/C#6.0/AwaitInCatchAndFinallyBlocks/bin/Debug/netcoreapp2.0/AwaitInCatchAndFinallyBlocks.runtimeconfig.json
+/media/antony/c7b87cd2-9172-4929-8873-04a84b9d204f/Dotnet/C#6.0/AwaitInCatchAndFinallyBlocks/bin/Debug/netcoreapp2.0/AwaitInCatchAndFinallyBlocks.runtimeconfig.dev.json
+/media/antony/c7b87cd2-9172-4929-8873-04a84b9d204f/Dotnet/C#6.0/AwaitInCatchAndFinallyBlocks/bin/Debug/netcoreapp2.0/AwaitInCatchAndFinallyBlocks.dll
+/media/antony/c7b87cd2-9172-4929-8873-04a84b9d204f/Dotnet/C#6.0/AwaitInCatchAndFinallyBlocks/bin/Debug/netcoreapp2.0/AwaitInCatchAndFinallyBlocks.pdb
+/media/antony/c7b87cd2-9172-4929-8873-04a84b9d204f/Dotnet/C#6.0/AwaitInCatchAndFinallyBlocks/obj/Debug/netcoreapp2.0/AwaitInCatchAndFinallyBlocks.csproj.CoreCompileInputs.cache
+/media/antony/c7b87cd2-9172-4929-8873-04a84b9d204f/Dotnet/C#6.0/AwaitInCatchAndFinallyBlocks/obj/Debug/netcoreapp2.0/AwaitInCatchAndFinallyBlocks.AssemblyInfoInputs.cache
+/media/antony/c7b87cd2-9172-4929-8873-04a84b9d204f/Dotnet/C#6.0/AwaitInCatchAndFinallyBlocks/obj/Debug/netcoreapp2.0/AwaitInCatchAndFinallyBlocks.AssemblyInfo.cs
+/media/antony/c7b87cd2-9172-4929-8873-04a84b9d204f/Dotnet/C#6.0/AwaitInCatchAndFinallyBlocks/obj/Debug/netcoreapp2.0/AwaitInCatchAndFinallyBlocks.dll
+/media/antony/c7b87cd2-9172-4929-8873-04a84b9d204f/Dotnet/C#6.0/AwaitInCatchAndFinallyBlocks/obj/Debug/netcoreapp2.0/AwaitInCatchAndFinallyBlocks.pdb

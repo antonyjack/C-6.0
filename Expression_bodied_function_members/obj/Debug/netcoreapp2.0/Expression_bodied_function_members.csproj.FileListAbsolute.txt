@@ -1,0 +1,10 @@
+/media/antony/c7b87cd2-9172-4929-8873-04a84b9d204f/Dotnet/C#6.0/Expression_bodied_function_members/bin/Debug/netcoreapp2.0/Expression_bodied_function_members.deps.json
+/media/antony/c7b87cd2-9172-4929-8873-04a84b9d204f/Dotnet/C#6.0/Expression_bodied_function_members/bin/Debug/netcoreapp2.0/Expression_bodied_function_members.runtimeconfig.json
+/media/antony/c7b87cd2-9172-4929-8873-04a84b9d204f/Dotnet/C#6.0/Expression_bodied_function_members/bin/Debug/netcoreapp2.0/Expression_bodied_function_members.runtimeconfig.dev.json
+/media/antony/c7b87cd2-9172-4929-8873-04a84b9d204f/Dotnet/C#6.0/Expression_bodied_function_members/bin/Debug/netcoreapp2.0/Expression_bodied_function_members.dll
+/media/antony/c7b87cd2-9172-4929-8873-04a84b9d204f/Dotnet/C#6.0/Expression_bodied_function_members/bin/Debug/netcoreapp2.0/Expression_bodied_function_members.pdb
+/media/antony/c7b87cd2-9172-4929-8873-04a84b9d204f/Dotnet/C#6.0/Expression_bodied_function_members/obj/Debug/netcoreapp2.0/Expression_bodied_function_members.csproj.CoreCompileInputs.cache
+/media/antony/c7b87cd2-9172-4929-8873-04a84b9d204f/Dotnet/C#6.0/Expression_bodied_function_members/obj/Debug/netcoreapp2.0/Expression_bodied_function_members.AssemblyInfoInputs.cache
+/media/antony/c7b87cd2-9172-4929-8873-04a84b9d204f/Dotnet/C#6.0/Expression_bodied_function_members/obj/Debug/netcoreapp2.0/Expression_bodied_function_members.AssemblyInfo.cs
+/media/antony/c7b87cd2-9172-4929-8873-04a84b9d204f/Dotnet/C#6.0/Expression_bodied_function_members/obj/Debug/netcoreapp2.0/Expression_bodied_function_members.dll
+/media/antony/c7b87cd2-9172-4929-8873-04a84b9d204f/Dotnet/C#6.0/Expression_bodied_function_members/obj/Debug/netcoreapp2.0/Expression_bodied_function_members.pdb

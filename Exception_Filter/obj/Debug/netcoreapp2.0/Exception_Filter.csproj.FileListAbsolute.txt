@@ -1,0 +1,10 @@
+/media/antony/c7b87cd2-9172-4929-8873-04a84b9d204f/Dotnet/C#6.0/Exception_Filter/bin/Debug/netcoreapp2.0/Exception_Filter.deps.json
+/media/antony/c7b87cd2-9172-4929-8873-04a84b9d204f/Dotnet/C#6.0/Exception_Filter/bin/Debug/netcoreapp2.0/Exception_Filter.runtimeconfig.json
+/media/antony/c7b87cd2-9172-4929-8873-04a84b9d204f/Dotnet/C#6.0/Exception_Filter/bin/Debug/netcoreapp2.0/Exception_Filter.runtimeconfig.dev.json
+/media/antony/c7b87cd2-9172-4929-8873-04a84b9d204f/Dotnet/C#6.0/Exception_Filter/bin/Debug/netcoreapp2.0/Exception_Filter.dll
+/media/antony/c7b87cd2-9172-4929-8873-04a84b9d204f/Dotnet/C#6.0/Exception_Filter/bin/Debug/netcoreapp2.0/Exception_Filter.pdb
+/media/antony/c7b87cd2-9172-4929-8873-04a84b9d204f/Dotnet/C#6.0/Exception_Filter/obj/Debug/netcoreapp2.0/Exception_Filter.csproj.CoreCompileInputs.cache
+/media/antony/c7b87cd2-9172-4929-8873-04a84b9d204f/Dotnet/C#6.0/Exception_Filter/obj/Debug/netcoreapp2.0/Exception_Filter.AssemblyInfoInputs.cache
+/media/antony/c7b87cd2-9172-4929-8873-04a84b9d204f/Dotnet/C#6.0/Exception_Filter/obj/Debug/netcoreapp2.0/Exception_Filter.AssemblyInfo.cs
+/media/antony/c7b87cd2-9172-4929-8873-04a84b9d204f/Dotnet/C#6.0/Exception_Filter/obj/Debug/netcoreapp2.0/Exception_Filter.dll
+/media/antony/c7b87cd2-9172-4929-8873-04a84b9d204f/Dotnet/C#6.0/Exception_Filter/obj/Debug/netcoreapp2.0/Exception_Filter.pdb
