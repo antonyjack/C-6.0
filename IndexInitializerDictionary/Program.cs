@@ -25,14 +25,7 @@ namespace IndexInitializerDictionary
 
             Console.WriteLine($"{entrollment.Length()}");
 
-            Task.Run(Log);
-        }
-            
-        static Task Log()
-        {
-            Console.WriteLine("Hello World");
-            return Task.FromResult(0);
-        }
+        }           
     }
 
     class Student

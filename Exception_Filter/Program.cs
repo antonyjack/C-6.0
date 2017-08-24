@@ -21,14 +21,14 @@ namespace Exception_Filter
             }
             catch(Exception ex) when (ex.LogException())
             {
-                //Never code reach here
+                //Never code reach here                
             }
         }
 
         public static bool LogException(this Exception ex)
         {
             Console.WriteLine($"{ex.Message}");
-            return false;
+            return false; //return true it will move to exception block or exit from catch block.
         }
     }    
 }

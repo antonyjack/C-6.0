@@ -8,3 +8,13 @@
 /media/antony/c7b87cd2-9172-4929-8873-04a84b9d204f/Dotnet/C#6.0/Auto_Property_Enhancements/obj/Debug/netcoreapp2.0/Auto_Property_Enhancements.AssemblyInfo.cs
 /media/antony/c7b87cd2-9172-4929-8873-04a84b9d204f/Dotnet/C#6.0/Auto_Property_Enhancements/obj/Debug/netcoreapp2.0/Auto_Property_Enhancements.dll
 /media/antony/c7b87cd2-9172-4929-8873-04a84b9d204f/Dotnet/C#6.0/Auto_Property_Enhancements/obj/Debug/netcoreapp2.0/Auto_Property_Enhancements.pdb
+D:\Antony\Blog Technical\C# 6.0\C-6.0\Auto_Property_Enhancements\bin\Debug\netcoreapp2.0\Auto_Property_Enhancements.deps.json
+D:\Antony\Blog Technical\C# 6.0\C-6.0\Auto_Property_Enhancements\bin\Debug\netcoreapp2.0\Auto_Property_Enhancements.runtimeconfig.json
+D:\Antony\Blog Technical\C# 6.0\C-6.0\Auto_Property_Enhancements\bin\Debug\netcoreapp2.0\Auto_Property_Enhancements.runtimeconfig.dev.json
+D:\Antony\Blog Technical\C# 6.0\C-6.0\Auto_Property_Enhancements\bin\Debug\netcoreapp2.0\Auto_Property_Enhancements.dll
+D:\Antony\Blog Technical\C# 6.0\C-6.0\Auto_Property_Enhancements\bin\Debug\netcoreapp2.0\Auto_Property_Enhancements.pdb
+D:\Antony\Blog Technical\C# 6.0\C-6.0\Auto_Property_Enhancements\obj\Debug\netcoreapp2.0\Auto_Property_Enhancements.csproj.CoreCompileInputs.cache
+D:\Antony\Blog Technical\C# 6.0\C-6.0\Auto_Property_Enhancements\obj\Debug\netcoreapp2.0\Auto_Property_Enhancements.AssemblyInfoInputs.cache
+D:\Antony\Blog Technical\C# 6.0\C-6.0\Auto_Property_Enhancements\obj\Debug\netcoreapp2.0\Auto_Property_Enhancements.AssemblyInfo.cs
+D:\Antony\Blog Technical\C# 6.0\C-6.0\Auto_Property_Enhancements\obj\Debug\netcoreapp2.0\Auto_Property_Enhancements.dll
+D:\Antony\Blog Technical\C# 6.0\C-6.0\Auto_Property_Enhancements\obj\Debug\netcoreapp2.0\Auto_Property_Enhancements.pdb

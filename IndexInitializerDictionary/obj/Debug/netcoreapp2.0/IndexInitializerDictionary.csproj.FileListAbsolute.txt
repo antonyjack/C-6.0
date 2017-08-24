@@ -8,3 +8,13 @@
 /media/antony/c7b87cd2-9172-4929-8873-04a84b9d204f/Dotnet/C#6.0/IndexInitializerDictionary/obj/Debug/netcoreapp2.0/IndexInitializerDictionary.AssemblyInfo.cs
 /media/antony/c7b87cd2-9172-4929-8873-04a84b9d204f/Dotnet/C#6.0/IndexInitializerDictionary/obj/Debug/netcoreapp2.0/IndexInitializerDictionary.dll
 /media/antony/c7b87cd2-9172-4929-8873-04a84b9d204f/Dotnet/C#6.0/IndexInitializerDictionary/obj/Debug/netcoreapp2.0/IndexInitializerDictionary.pdb
+D:\Antony\Blog Technical\C# 6.0\C-6.0\IndexInitializerDictionary\bin\Debug\netcoreapp2.0\IndexInitializerDictionary.deps.json
+D:\Antony\Blog Technical\C# 6.0\C-6.0\IndexInitializerDictionary\bin\Debug\netcoreapp2.0\IndexInitializerDictionary.runtimeconfig.json
+D:\Antony\Blog Technical\C# 6.0\C-6.0\IndexInitializerDictionary\bin\Debug\netcoreapp2.0\IndexInitializerDictionary.runtimeconfig.dev.json
+D:\Antony\Blog Technical\C# 6.0\C-6.0\IndexInitializerDictionary\bin\Debug\netcoreapp2.0\IndexInitializerDictionary.dll
+D:\Antony\Blog Technical\C# 6.0\C-6.0\IndexInitializerDictionary\bin\Debug\netcoreapp2.0\IndexInitializerDictionary.pdb
+D:\Antony\Blog Technical\C# 6.0\C-6.0\IndexInitializerDictionary\obj\Debug\netcoreapp2.0\IndexInitializerDictionary.csproj.CoreCompileInputs.cache
+D:\Antony\Blog Technical\C# 6.0\C-6.0\IndexInitializerDictionary\obj\Debug\netcoreapp2.0\IndexInitializerDictionary.AssemblyInfoInputs.cache
+D:\Antony\Blog Technical\C# 6.0\C-6.0\IndexInitializerDictionary\obj\Debug\netcoreapp2.0\IndexInitializerDictionary.AssemblyInfo.cs
+D:\Antony\Blog Technical\C# 6.0\C-6.0\IndexInitializerDictionary\obj\Debug\netcoreapp2.0\IndexInitializerDictionary.dll
+D:\Antony\Blog Technical\C# 6.0\C-6.0\IndexInitializerDictionary\obj\Debug\netcoreapp2.0\IndexInitializerDictionary.pdb

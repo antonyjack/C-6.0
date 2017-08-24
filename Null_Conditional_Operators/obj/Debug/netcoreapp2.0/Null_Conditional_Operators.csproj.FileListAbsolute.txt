@@ -8,3 +8,13 @@
 /media/antony/c7b87cd2-9172-4929-8873-04a84b9d204f/Dotnet/C#6.0/Null_Conditional_Operators/obj/Debug/netcoreapp2.0/Null_Conditional_Operators.AssemblyInfo.cs
 /media/antony/c7b87cd2-9172-4929-8873-04a84b9d204f/Dotnet/C#6.0/Null_Conditional_Operators/obj/Debug/netcoreapp2.0/Null_Conditional_Operators.dll
 /media/antony/c7b87cd2-9172-4929-8873-04a84b9d204f/Dotnet/C#6.0/Null_Conditional_Operators/obj/Debug/netcoreapp2.0/Null_Conditional_Operators.pdb
+D:\Antony\Blog Technical\C# 6.0\C-6.0\Null_Conditional_Operators\bin\Debug\netcoreapp2.0\Null_Conditional_Operators.deps.json
+D:\Antony\Blog Technical\C# 6.0\C-6.0\Null_Conditional_Operators\bin\Debug\netcoreapp2.0\Null_Conditional_Operators.runtimeconfig.json
+D:\Antony\Blog Technical\C# 6.0\C-6.0\Null_Conditional_Operators\bin\Debug\netcoreapp2.0\Null_Conditional_Operators.runtimeconfig.dev.json
+D:\Antony\Blog Technical\C# 6.0\C-6.0\Null_Conditional_Operators\bin\Debug\netcoreapp2.0\Null_Conditional_Operators.dll
+D:\Antony\Blog Technical\C# 6.0\C-6.0\Null_Conditional_Operators\bin\Debug\netcoreapp2.0\Null_Conditional_Operators.pdb
+D:\Antony\Blog Technical\C# 6.0\C-6.0\Null_Conditional_Operators\obj\Debug\netcoreapp2.0\Null_Conditional_Operators.csproj.CoreCompileInputs.cache
+D:\Antony\Blog Technical\C# 6.0\C-6.0\Null_Conditional_Operators\obj\Debug\netcoreapp2.0\Null_Conditional_Operators.AssemblyInfoInputs.cache
+D:\Antony\Blog Technical\C# 6.0\C-6.0\Null_Conditional_Operators\obj\Debug\netcoreapp2.0\Null_Conditional_Operators.AssemblyInfo.cs
+D:\Antony\Blog Technical\C# 6.0\C-6.0\Null_Conditional_Operators\obj\Debug\netcoreapp2.0\Null_Conditional_Operators.dll
+D:\Antony\Blog Technical\C# 6.0\C-6.0\Null_Conditional_Operators\obj\Debug\netcoreapp2.0\Null_Conditional_Operators.pdb
