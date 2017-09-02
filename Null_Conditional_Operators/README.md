@@ -20,3 +20,10 @@ string Name = student != null ? student.Name : null;
 var name = student?.Name;
 ```
 > In the preceding example, the variable `name` is assigned `null` if the student object is `null`. Otherwise, it gets assigned the value of the `Name`.
+
+> You can often use this construct with the null coalescing operator to assign default values when one of the
+properties are `null`
+
+```C#
+string Name = person?.Name?? "Default";
+````
