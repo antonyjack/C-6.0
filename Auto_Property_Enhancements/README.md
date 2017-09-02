@@ -57,7 +57,7 @@ public class Student
 public List<int> Numbers {get;set;} = new List<int>();
 ```
 
-> Hot to set default value for auto-property?
+> How to set default value for auto-property?
 ```C#
 public string Name {get;set;} = "James";
 ```
